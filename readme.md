@@ -34,4 +34,4 @@ These ports can be changed if you wish to have multiple containers running.
 
 Configuration can be found in the behat.yml file. The base_url is set to the default
 Vagrant URL for compro work. A files directory exists with a test.pdf file for testing file uploads.
-Any files needed for testing can be placed in the directory.
+Any files needed for testing can be placed in that directory.
